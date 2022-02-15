@@ -1,1 +1,13 @@
-# PublicConfig
+#EditXml
+FreeVersion=1.0
+FreePublish=2022年12月18日
+FreeSwitch=Open
+FreeGroup=774371268
+FreeAuthor=2954417590
+FreeNotice=白嫖版1.0正式发布！
+VipVersion=1.0
+VipPublish=2022年12月18日
+VipSwitch=Open
+VipGroup=774371268
+VipAuthor=2954417590
+VipNotice=赞助版1.0正式发布！
